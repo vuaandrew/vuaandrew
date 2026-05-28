@@ -1,16 +1,32 @@
-## Hi there 👋
+# Andrew Dao
 
-<!--
-**vuaandrew/vuaandrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master of Information Technology student at RMIT University with a strong interest in IT support, networking, and cybersecurity.
 
-Here are some ideas to get you started:
+Currently building hands-on experience through:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* IT support and troubleshooting labs
+* Networking and infrastructure projects
+* Java and Python development
+* Virtual machines and homelab environments
+
+## Technical Interests
+
+* IT Support & Helpdesk
+* Networking & Infrastructure
+* Cybersecurity
+* Cloud Technologies
+* System Administration
+
+## Technologies & Tools
+
+* Windows, Linux, Ubuntu
+* TCP/IP, DNS, DHCP
+* Wireshark, Cisco Packet Tracer
+* Java, Python, SQL
+* Git, Docker, VirtualBox, VMware
+
+## Current Goals
+
+* Build practical IT support and cybersecurity skills
+* Develop homelab and networking projects
+* Secure an entry-level IT support or cybersecurity opportunity
